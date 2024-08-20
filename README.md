@@ -30,7 +30,7 @@ This script batch downloads 3D model files (GLB format) from IKEA product pages,
      ```
 
 2. Follow the prompts:
-   - Enter the IKEA category URL when asked (e.g., https://www.ikea.com/fi/fi/cat/chairs-fu002/)
+   - Enter the IKEA category URL when asked (e.g., [https://www.ikea.com/fi/fi/cat/chairs-fu002/](https://www.ikea.com/fi/en/cat/sofas-fu003/))
    - Choose whether to download all color variants by typing 'y' or 'n'
 
 3. The script will:
