@@ -2,7 +2,7 @@
 
 This script batch downloads 3D model files (GLB format) from IKEA product pages, which you can open in 3D software like Blender. It has been tested only on the Finnish IKEA website (https://www.ikea.com/fi/en).
 
-![alt text]([http://url/to/img.png](https://raw.githubusercontent.com/apinanaivot/IKEA-3d-model-batch-downloader/main/sample.jpg))
+![alt text](https://raw.githubusercontent.com/apinanaivot/IKEA-3d-model-batch-downloader/main/sample.jpg)
 
 ## Installation
 
