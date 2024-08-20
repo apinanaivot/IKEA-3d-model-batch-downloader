@@ -9,7 +9,7 @@ Sofa downloaded from the IKEA website rendered inside Blender
 
 -----
 
-NOTE: If you don't need to download entire cataloques of models at the time, or running this script is too complicated for you, check out my other script that adds a download button **directly on the items on the IKEA website**: https://github.com/apinanaivot/IKEA-3D-Model-Download-Button
+NOTE: If you don't need to download entire cataloques of models at the time, or running this script is too complicated for you, check out my other script that adds download buttons directly on the IKEA website: https://github.com/apinanaivot/IKEA-3D-Model-Download-Button
 
 ## Installation
 
