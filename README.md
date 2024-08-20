@@ -35,7 +35,7 @@ Sofa downloaded from the IKEA website rendered inside Blender
      ```
 
 2. Follow the prompts:
-   - Enter the IKEA category URL when asked (e.g., [https://www.ikea.com/fi/fi/cat/chairs-fu002/](https://www.ikea.com/fi/en/cat/sofas-fu003/))
+   - Enter the IKEA category URL when asked (e.g., [https://www.ikea.com/fi/fi/cat/chairs-fu002/](https://www.ikea.com/fi/en/cat/sofas-fu003/)), this would download all the sofas from the IKEA website.
    - Choose whether to download all color variants by typing 'y' or 'n'
 
 3. The script will:
