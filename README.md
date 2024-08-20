@@ -1,6 +1,6 @@
 # IKEA 3D Model Batch Downloader
 
-This script downloads 3D model files (GLB format) from IKEA product pages. It has been tested only on the Finnish IKEA website.
+This script batch downloads 3D model files (GLB format) from IKEA product pages. It has been tested only on the Finnish IKEA website (https://www.ikea.com/fi/en).
 
 ## Installation
 
